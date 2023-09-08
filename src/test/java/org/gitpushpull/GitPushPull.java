@@ -1,6 +1,12 @@
 package org.gitpushpull;
 
 public class GitPushPull {
+	
+	private void method0() {
+		System.out.println("Method 0.1");
+		System.out.println("Method 0.2");
+		System.out.println("Method 0.3");
+	}
 
 	private void method() {
 	
