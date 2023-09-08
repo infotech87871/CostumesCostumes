@@ -14,4 +14,9 @@ public class GitPushPull {
 	System.out.println("Company Code : "+companyCode);
 
 }
+	private void method2() {
+
+		System.out.println("Method 2.1");
+		System.out.println("Method 2.2");
+	}
 }
